@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+    background-color: white;
+    width: fit-content;
+    margin: 0;
+  }
+  
+  .black{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .white{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+  }
+  
+  div{
+    border: 1px solid black;
+  }
