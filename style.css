@@ -26,6 +26,20 @@ html {
     width: 100px;
   }
   
-  div{
+  table{
     border: 1px solid black;
   }
+
+  #toggleButton {
+    padding: 10px 20px;
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    }
